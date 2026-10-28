@@ -1,6 +1,6 @@
 package questao10Collections;
 
-import java.util.Set;
+
 import java.util.TreeSet;
 
 public class App {

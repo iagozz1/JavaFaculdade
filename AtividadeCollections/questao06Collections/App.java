@@ -1,6 +1,5 @@
 package questao06Collections;
 
-import java.nio.channels.Pipe.SourceChannel;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;

@@ -1,4 +1,4 @@
-package AtividadeCollections.questao04Collections;
+package questao04Collections;
 
 import java.util.ArrayList;
 import java.util.Collections;

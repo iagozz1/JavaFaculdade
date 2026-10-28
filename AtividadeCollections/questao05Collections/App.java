@@ -1,4 +1,4 @@
-package AtividadeCollections.questao05Collections;
+package questao05Collections;
 
 import java.util.LinkedList;
 import java.util.List;

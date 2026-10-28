@@ -1,7 +1,6 @@
 package questao14Collections;
 
 import java.util.HashMap;
-import java.util.Map;
 
 import questao06Collections.Pessoa;
 
